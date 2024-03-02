@@ -65,10 +65,7 @@ footer img {
   background-color: black;
 }
 
-.zoom {
-  transition: transform 0.5s ease;
-  transform: scale(2);
-}
+
 
 
 
