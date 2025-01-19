@@ -39,7 +39,8 @@ main {
 }
 
 .inleiding {
-max-width: 70%;
+max-width: 75%;
+text-align: center;
 }
 
 footer {
