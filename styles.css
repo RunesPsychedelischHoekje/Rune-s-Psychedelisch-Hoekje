@@ -13,6 +13,10 @@ header {
 	border: 1px solid #ddd;
 }
 
+.inleiding {
+max-width: 70%;
+}
+
 main {
     display: flex;
     flex-wrap: wrap;
