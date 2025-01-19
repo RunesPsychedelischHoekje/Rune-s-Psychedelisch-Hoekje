@@ -9,10 +9,11 @@ header {
     background-color: #ffffff;
     color: #333333;
     padding: 10px;
+    max-width:90%;
     text-align: center;
 	items
 	border: 1px solid #ddd;
-justify-content: center
+
 }
 
 
@@ -40,11 +41,6 @@ main {
     border-radius: 3px;
 }
 
-.inleiding {
-max-width: 75%;
-text-align: center;
-margin: auto;
-}
 
 footer {
     background-color: #ffffff;
