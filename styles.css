@@ -13,9 +13,6 @@ header {
 	border: 1px solid #ddd;
 }
 
-.inleiding {
-max-width: 70%;
-}
 
 main {
     display: flex;
@@ -39,6 +36,10 @@ main {
     max-width: 100%;
     height: auto;
     border-radius: 3px;
+}
+
+.inleiding p {
+max-width: 70%;
 }
 
 footer {
