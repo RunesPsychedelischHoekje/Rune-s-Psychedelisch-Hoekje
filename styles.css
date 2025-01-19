@@ -10,6 +10,7 @@ header {
     color: #333333;
     padding: 10px;
     text-align: center;
+	items
 	border: 1px solid #ddd;
 }
 
@@ -41,6 +42,7 @@ main {
 .inleiding {
 max-width: 75%;
 text-align: center;
+margin: auto;
 }
 
 footer {
