@@ -10,10 +10,53 @@ header {
     color: #333333;
     padding: 10px;
     text-align: center;
-	items
 	border: 1px solid #ddd;
 }
 
+.form-container {
+    background: white;
+    max-width: 450px;
+    margin: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding:20px;
+    align-items: center;
+    text-align: center;
+  }
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-container p {
+    width: 80%;
+    padding: 12px;
+    margin: auto;
+    font-size: 16px;
+    text-align: center;
+    align-items: center;
+}
+
+
+.form-container input, .form-container textarea, .form-container button{
+    width: 80%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    align-items: center;
+  }
+
+.form-container button{
+    border: none;
+      cursor: pointer;
+}
+
+.form-container button:hover {
+    background-color: #ddd;
+  }
 
 main {
     display: flex;
@@ -46,7 +89,6 @@ footer {
     text-align: center;
     padding: 10px;
     bottom: 0;
-  
 border: 1px solid #ddd;
 }
 
